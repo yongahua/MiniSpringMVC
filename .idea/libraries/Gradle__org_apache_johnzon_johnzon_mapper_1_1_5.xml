@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.johnzon:johnzon-mapper:1.1.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.johnzon/johnzon-mapper/1.1.5/f0739058fd4b95f390daf0ad3f9aeab548ed7ad6/johnzon-mapper-1.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.johnzon/johnzon-mapper/1.1.5/fa14617ad0700aaa2be477271c59069ba76dfa02/johnzon-mapper-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":spring-beans:main" external.linked.project.path="$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-beans" external.root.project.path="$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版" external.system.id="GRADLE" external.system.module.group="org.springframework" external.system.module.type="sourceSet" external.system.module.version="5.0.2.RELEASE" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-beans/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-beans/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-beans/src/main/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-beans/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-beans/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-beans/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.1.61" level="project" />
+    <orderEntry type="module" module-name="spring-core_main" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.1.61" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-core/build/libs/spring-cglib-repack-3.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="spring-jcl_main" />
+    <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.19" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-all:2.4.13" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-core/build/libs/spring-objenesis-repack-2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":spring-build-src:main" external.linked.project.path="$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/buildSrc" external.root.project.path="$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版" external.system.id="GRADLE" external.system.module.group="org.springframework" external.system.module.type="sourceSet" external.system.module.version="5.0.2.RELEASE" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/buildSrc/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/buildSrc/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/buildSrc/src/main/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/buildSrc/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/buildSrc/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/buildSrc/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/4.3.1/generated-gradle-jars/gradle-api-4.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.3.1-bin/7yzdu24db77gi3zukl2a7o0xx/gradle-4.3.1/lib/gradle-installation-beacon-4.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.3.1-bin/7yzdu24db77gi3zukl2a7o0xx/gradle-4.3.1/lib/groovy-all-2.4.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

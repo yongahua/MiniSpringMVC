@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.johnzon:johnzon-jsonb:1.1.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.johnzon/johnzon-jsonb/1.1.5/a5bf11d941b458e40da8de4f5c066b28f92a3e08/johnzon-jsonb-1.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.johnzon/johnzon-jsonb/1.1.5/d44ee776b0cc24664b48a84d7d31aab2ae0a9314/johnzon-jsonb-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

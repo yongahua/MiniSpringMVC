@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版" />
+        <option name="gradleHome" value="E:/开发/服务器/Gradle/gradle-4.8.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/buildSrc" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-aop" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-aspects" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-beans" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-context" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-context-indexer" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-context-support" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-core" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-expression" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-bom" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-instrument" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-jcl" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-jdbc" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-jms" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-messaging" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-orm" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-oxm" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-test" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-tx" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-web" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-webflux" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-webmvc" />
+            <option value="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/03.架构师审美观/01.Spring源码分析/【咕泡独家】spring-framework-5.0.2.RELEASE-中文注释版/spring-framework-5.0.2.RELEASE-中文注释版/spring-websocket" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
